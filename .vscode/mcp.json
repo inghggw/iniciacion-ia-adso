@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "tareas": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["servidor_mcp.py"]
+    }
+  }
+}

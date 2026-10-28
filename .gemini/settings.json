@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tareas": {
+      "command": "python",
+      "args": ["servidor_mcp.py"]
+    }
+  }
+}
