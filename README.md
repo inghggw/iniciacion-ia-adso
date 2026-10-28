@@ -18,6 +18,12 @@ corresponde a un anexo de la guía y fue probado de principio a fin en octubre d
 | 5 | Servidor MCP conectado a la API | Codespaces | `servidor_mcp.py`, `probar_mcp.py`, `.vscode/mcp.json`, `.gemini/settings.json` | G |
 | 6 | Fine-tuning con LoRA | Colab con GPU T4 | [`notebooks/semana6.ipynb`](https://colab.research.google.com/github/inghggw/iniciacion-ia-adso/blob/main/notebooks/semana6.ipynb) | I |
 
+## Ejemplos publicados
+
+- Semana 3, modelo de visión: https://huggingface.co/inghggw/vit-frijol
+- Semana 6, modelo de lenguaje ajustado: https://huggingface.co/inghggw/modelo-ajustado-sena
+- Semana 6, aplicación de chat: se ejecuta en Colab con Gradio (anexo I.5), porque Hugging Face ya no permite Spaces con Gradio en cuentas gratis.
+
 Los enlaces de los notebooks los abren directamente en Google Colab. Para guardar tus cambios usa
 **Archivo → Guardar una copia en Drive**.
 
