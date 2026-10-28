@@ -1,8 +1,8 @@
 import httpx
-from mcp.server.fastmcp import FastMCP
+from mcp.server.mcpserver import MCPServer
 
 API = "http://localhost:8000"
-mcp = FastMCP("tareas")
+mcp = MCPServer("tareas")
 
 
 @mcp.tool()
